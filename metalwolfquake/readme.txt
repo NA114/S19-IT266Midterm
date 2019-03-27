@@ -9,8 +9,9 @@ In other words, the desktop shortcut's Target field must have the following form
 
 **Current Working Deliverables**
 Main:
-Third-person camera
+Third-person camera (On startup by default)
 Common:
-Mod setup as a separate folder
-Desktop shortcut that automatically launches mod
+Mod setup as a separate folder (metalwolfquake)
+Desktop shortcut that automatically launches mod (MWQ Shortcut)
+Change to UI. (Menu text change, and enlarged health bar in the hud)
 Readme
